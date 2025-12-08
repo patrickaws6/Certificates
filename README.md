@@ -23,7 +23,20 @@ Enterprise Application Development for Cloud Deployment	IBM CE Project	Feb–Mar
 🎓 Academic & College Certifications
 Certificate	Institution	Date	File
 Oracle Database Application Development Workshop	Malla Reddy Engineering College	19 Feb 2013	Oracle_Database_Application_Development.jpg
+
+
 🗂️ Repository Structure
+📁 certifications/
+    ├── Azure_Fundamentals.png
+    ├── Docker_Intro.jpg
+    ├── Getting_Started_with_AWS.png
+    ├── IBM_Career_Education_Program.jpg
+    ├── Kubernetes_Introduction.png
+    └── Oracle_Database_Application_Development.jpg
+
+
+
+
 📁 certifications/
     ├── Azure_Fundamentals.png
     ├── Docker_Intro.jpg
@@ -59,8 +72,8 @@ I am committed to continuous learning and improving my technical skills.
 
 📬 Contact
 
-LinkedIn: add your link here
+LinkedIn: www.linkedin.com/in/patrickbairipaka
 
-GitHub: add your repo link here
+GitHub: (https://github.com/patrickaws6/Certificates)
 
-Email: add your email here
+Email: patrickbaira.joseph@gmail.com
