@@ -1,7 +1,7 @@
 ## 📘 Certification Portfolio – Bairipaka Patrick
 
      This repository contains all my verified professional, technical, and academic certifications.
-     It serves as a centralized portfolio showcasing my continuous learning in Cloud, DevOps, Kubernetes, Databases, and Software           Engineering.
+     It serves as a centralized portfolio showcasing my continuous learning in Cloud, DevOps, Kubernetes, Databases, and Software Engineering.
 
 🏅 Certifications Overview
 🚀 Cloud Certifications
