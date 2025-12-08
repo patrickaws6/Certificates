@@ -46,14 +46,14 @@
          └── Oracle_Database_Application_Development.jpg
 
 
-🎯 Purpose of This Portfolio
+# 🎯 Purpose of This Portfolio
 
      ✔ To maintain a verifiable online record of my certifications
      ✔ To showcase continuous learning and professional development
      ✔ To provide quick access for recruiters & employers
      ✔ To keep all certificates well-organized and accessible
 
-👤 About Me – Bairipaka Patrick
+## 👤 About Me – Bairipaka Patrick
 
      I am a Cloud & DevOps Engineer with hands-on experience in:
 
@@ -80,8 +80,6 @@ GitHub: (https://github.com/patrickaws6/Certificates)
 
 Email: patrickbaira.joseph@gmail.com
 
-
-## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patrickbairipaka)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-id](https://github.com/patrickaws6/Certificates))
