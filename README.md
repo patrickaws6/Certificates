@@ -72,7 +72,7 @@
      I am committed to continuous learning and improving my technical skills.
 
 
-📬 Contact
+## 📬 Contact Me
 
 LinkedIn: www.linkedin.com/in/patrickbairipaka)
 
