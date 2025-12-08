@@ -81,3 +81,11 @@
      Email: patrickbaira.joseph@gmail.com
 
      [`Docker_Intro.jpg`](./Docker_Intro.jpg)
+
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/patrickbairipaka)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-id](https://github.com/patrickaws6/Certificates))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickbaira.joseph@gmail.com)
+
