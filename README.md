@@ -1,4 +1,4 @@
-📘 Certification Portfolio – Bairipaka Patrick
+## 📘 Certification Portfolio – Bairipaka Patrick
 
      This repository contains all my verified professional, technical, and academic certifications.
      It serves as a centralized portfolio showcasing my continuous learning in Cloud, DevOps, Kubernetes, Databases, and Software           Engineering.
@@ -74,7 +74,7 @@
 
 ## 📬 Contact Me
 
-LinkedIn: www.linkedin.com/in/patrickbairipaka)
+LinkedIn: www.linkedin.com/in/patrickbairipaka
 
 GitHub: (https://github.com/patrickaws6/Certificates)
 
