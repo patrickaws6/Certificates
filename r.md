@@ -37,13 +37,13 @@ It serves as a centralized portfolio showcasing my continuous learning in Cloud,
 
 🗂️ Repository Structure
 
-📁 certifications/
-    ├── Azure_Fundamentals.png
-    ├── Docker_Intro.jpg
-    ├── Getting_Started_with_AWS.png
-    ├── IBM_Career_Education_Program.jpg
-    ├── Kubernetes_Introduction.png
-    └── Oracle_Database_Application_Development.jpg
+     📁 certifications/
+         ├── Azure_Fundamentals.png
+         ├── Docker_Intro.jpg
+         ├── Getting_Started_with_AWS.png
+         ├── IBM_Career_Education_Program.jpg
+         ├── Kubernetes_Introduction.png
+         └── Oracle_Database_Application_Development.jpg
 
 
 🎯 Purpose of This Portfolio
