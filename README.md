@@ -74,7 +74,7 @@
 
 📬 Contact
 
-     LinkedIn: www.linkedin.com/in/patrickbairipaka
+     LinkedIn: [add your repo link here]www.linkedin.com/in/patrickbairipaka
 
      GitHub: (https://github.com/patrickaws6/Certificates)
 
