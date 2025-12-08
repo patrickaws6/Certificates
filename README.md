@@ -48,10 +48,10 @@ It serves as a centralized portfolio showcasing my continuous learning in Cloud,
 
 🎯 Purpose of This Portfolio
 
-✔ To maintain a verifiable online record of my certifications
-✔ To showcase continuous learning and professional development
-✔ To provide quick access for recruiters & employers
-✔ To keep all certificates well-organized and accessible
+     ✔ To maintain a verifiable online record of my certifications
+     ✔ To showcase continuous learning and professional development
+     ✔ To provide quick access for recruiters & employers
+     ✔ To keep all certificates well-organized and accessible
 
 👤 About Me – Bairipaka Patrick
 
