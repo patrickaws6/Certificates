@@ -46,7 +46,7 @@
          └── Oracle_Database_Application_Development.jpg
 
 
-# 🎯 Purpose of This Portfolio
+🎯 Purpose of This Portfolio
 
      ✔ To maintain a verifiable online record of my certifications
      ✔ To showcase continuous learning and professional development
