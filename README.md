@@ -1,7 +1,7 @@
 📘 Certification Portfolio – Bairipaka Patrick
 
-This repository contains all my verified professional, technical, and academic certifications.
-It serves as a centralized portfolio showcasing my continuous learning in Cloud, DevOps, Kubernetes, Databases, and Software Engineering.
+     This repository contains all my verified professional, technical, and academic certifications.
+     It serves as a centralized portfolio showcasing my continuous learning in Cloud, DevOps, Kubernetes, Databases, and Software           Engineering.
 
 🏅 Certifications Overview
 🚀 Cloud Certifications
@@ -55,27 +55,27 @@ It serves as a centralized portfolio showcasing my continuous learning in Cloud,
 
 👤 About Me – Bairipaka Patrick
 
-I am a Cloud & DevOps Engineer with hands-on experience in:
+     I am a Cloud & DevOps Engineer with hands-on experience in:
 
-AWS, Azure
+          AWS, Azure
 
-Docker & Kubernetes
+          Docker & Kubernetes
 
-CI/CD Pipelines
+          CI/CD Pipelines
 
-GitHub, Jenkins
+          GitHub, Jenkins
 
-Linux & Scripting
+          Linux & Scripting
 
-Monitoring (Grafana, Prometheus, Sysdig)
+          Monitoring (Grafana, Prometheus, Sysdig)
 
-I am committed to continuous learning and improving my technical skills.
+     I am committed to continuous learning and improving my technical skills.
 
 
 📬 Contact
 
-LinkedIn: www.linkedin.com/in/patrickbairipaka
+     LinkedIn: www.linkedin.com/in/patrickbairipaka
 
-GitHub: (https://github.com/patrickaws6/Certificates)
+     GitHub: (https://github.com/patrickaws6/Certificates)
 
-Email: patrickbaira.joseph@gmail.com
+     Email: patrickbaira.joseph@gmail.com
