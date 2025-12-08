@@ -74,8 +74,10 @@
 
 📬 Contact
 
-     LinkedIn: [add your repo link here]www.linkedin.com/in/patrickbairipaka
+     LinkedIn: [`www.linkedin.com/in/patrickbairipaka`](./www.linkedin.com/in/patrickbairipaka)
 
      GitHub: (https://github.com/patrickaws6/Certificates)
 
      Email: patrickbaira.joseph@gmail.com
+
+     [`Docker_Intro.jpg`](./Docker_Intro.jpg)
