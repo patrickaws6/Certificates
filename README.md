@@ -74,13 +74,11 @@
 
 📬 Contact
 
-     LinkedIn: [`www.linkedin.com/in/patrickbairipaka`](./www.linkedin.com/in/patrickbairipaka)
+LinkedIn: www.linkedin.com/in/patrickbairipaka)
 
-     GitHub: (https://github.com/patrickaws6/Certificates)
+GitHub: (https://github.com/patrickaws6/Certificates)
 
-     Email: patrickbaira.joseph@gmail.com
-
-     [`Docker_Intro.jpg`](./Docker_Intro.jpg)
+Email: patrickbaira.joseph@gmail.com
 
 
 ## 📬 Contact Me
