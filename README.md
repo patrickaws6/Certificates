@@ -38,11 +38,11 @@
 🗂️ Repository Structure
 
      📁 certifications/
-         ├── Azure_Fundamentals.png
+         ├── Azure_Fundamentals.png (https://simpli-web.app.link/e/2BiQz7JpdNb)
          ├── Docker_Intro.jpg
-         ├── Getting_Started_with_AWS.png
+         ├── Getting_Started_with_AWS.png (https://simpli-web.app.link/e/mTt6ODNpdNb)
          ├── IBM_Career_Education_Program.jpg
-         ├── Kubernetes_Introduction.png
+         ├── Kubernetes_Introduction.png (https://simpli-web.app.link/e/HlyJI6BpdNb)
          └── Oracle_Database_Application_Development.jpg
 
 
