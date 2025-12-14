@@ -10,7 +10,7 @@
 | ---------------------------- | ------------------- | ----------- | ---------------------------------------------------------------- |
 | **Azure Fundamentals**       | Simplilearn SkillUp | 26 Sep 2024 | [`Azure_Fundamentals.png`](./Azure_Fundamentals.png)             |
 | **Getting Started with AWS** | Simplilearn SkillUp | 26 Sep 2024 | [`Getting_Started_with_AWS.png`](./Getting_Started_with_AWS.png) |
-
+| **GIT**                      | Simplilearn SkillUp | 14 Dec 2025 | [`GIT-Traning.pdf`](./GIT-Training.pdf)                          |
 
 🔧 DevOps Certifications
 | Certificate                                         | Platform  | Date | File                                     |
