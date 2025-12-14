@@ -44,6 +44,7 @@
          ├── IBM_Career_Education_Program.jpg
          ├── Kubernetes_Introduction.png (https://simpli-web.app.link/e/HlyJI6BpdNb)
          └── Oracle_Database_Application_Development.jpg
+         Git Traning link: https://simpli-web.app.link/e/OnSgdivW4Yb
 
 
 🎯 Purpose of This Portfolio
